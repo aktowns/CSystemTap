@@ -1,0 +1,4 @@
+module CSystemTap [system] {
+  header "/usr/include/sys/sdt.h"
+  export *
+}
